@@ -2,7 +2,8 @@
   "compilerOptions": {
     "strict": true,
     "checkJs": true,
-    "noEmit": true
+    "noEmit": true,
+    "jsx": "react-jsx"
   },
   "include": ["src"]
 }
